@@ -13,7 +13,6 @@ public class BalanceArms : MonoBehaviour
     public void disable()
     {
         force = 0;
-        Debug.Log("stop");
     }
     public void Update()
     {
